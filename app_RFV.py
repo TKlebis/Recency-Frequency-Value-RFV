@@ -3,10 +3,12 @@
 import pandas            as pd
 import streamlit         as st
 import numpy             as np
-import xlsxwriter
+
 from datetime            import datetime
 from PIL                 import Image
 from io                  import BytesIO
+import subprocess
+import sys
 
 subprocess.check_call([sys.executable, "-m", "pip", "install", "xlsxwriter"])
 subprocess.run([sys.executable, "-m", "pip", "install", "seaborn"])
