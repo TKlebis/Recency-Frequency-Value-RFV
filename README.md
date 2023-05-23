@@ -1,5 +1,5 @@
 # Recency-Frequency-Value-RFV
-[Clique aqui](https://tklebis-recency-frequency-value-rfv-app-rfv-9q9xxk.streamlit.app/)
+[Clique aqui](https://marketing-digital-rfv.streamlit.app/)
 
 Essa segmentação agrupa os clientes de acordo com o comportamento de compra, permitindo ações de marketing e CRM direcionados.
 
