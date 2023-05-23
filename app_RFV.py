@@ -8,6 +8,9 @@ from datetime            import datetime
 from PIL                 import Image
 from io                  import BytesIO
 
+subprocess.check_call([sys.executable, "-m", "pip", "install", "xlsxwriter"])
+subprocess.run([sys.executable, "-m", "pip", "install", "seaborn"])
+import xlsxwriter 
 
 
 @st.cache
