@@ -1,4 +1,6 @@
 # Recency-Frequency-Value-RFV
+[Clique aqui](https://tklebis-recency-frequency-value-rfv-app-rfv-9q9xxk.streamlit.app/)
+
 Essa segmentação agrupa os clientes de acordo com o comportamento de compra, permitindo ações de marketing e CRM direcionados.
 
 ## A aplicação inicia com uma breve introdução sobre o RFV e sua importância na segmentação de clientes.
